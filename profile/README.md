@@ -65,6 +65,7 @@
 
 ---
 
+
 ## 📸 Team Documentation
 
 <div align="center">
@@ -72,12 +73,12 @@
 <table>
   <tr>
     <td align="center">
-      <img src="docs/dac-prs-its.jpg" height="220"/>
+      <img src="../docs/dac-prs-its.jpg" height="220"/>
       <br/>
       <sub><b>3rd Place — DAC PRS ITS 2026</b></sub>
     </td>
     <td align="center">
-      <img src="docs/hology-9.0.jpg" height="220"/>
+      <img src="../docs/hology-9.0.jpg" height="220"/>
       <br/>
       <sub><b>1st Honorable Mention — HOLOGY 9.0 Final</b></sub>
     </td>
