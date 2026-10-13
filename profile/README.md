@@ -98,8 +98,8 @@
 
 <br/><br/>
 
-*"Guys, ini bukan sekadar lomba — ini tentang siapa yang mau terus belajar, revisi, dan gas sampai hasilnya jadi nyata."*  
-— **Pak Rinaldi**
+*"Katanya setelah hujan reda, vibes kampus ITB terasa syahdu dan romantis. Ya memang demikian suasananya."*  
+— **Pak Rin**
 
 </div>
 
