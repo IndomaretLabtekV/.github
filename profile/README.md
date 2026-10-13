@@ -48,15 +48,16 @@
 
 ---
 
+
 ## 🏆 Competition History
 
 | Competition | Category | Task | Result |
 |:-----------:|:--------:|:----:|:------:|
-| **DAC PRS ITS 2026** | Data Analysis Competition | Insurance Customer Churn Prediction | **3rd Place** |
-| **HOLOGY 9.0 (Preliminary)** | Data Mining | Breast Cancer Classification & Property Price Regression | **1st Winner** |
-| **HOLOGY 9.0 (Final)** | Data Mining | Paddy Field Segmentation | **1st Honorable Mention (4th Place)** |
-| **IFEST 2026 (Preliminary)** | Data Analysis Competition | Water Stress Prediction | **3rd Place** |
-| **IFEST 2026 (Final)** | Data Analysis Competition | Water Stress Early Warning for HUC12 Sub-Watersheds | **5th Place** |
+| DAC PRS ITS 2026 | Data Analysis Competition | Insurance Churn Prediction | **3rd Place** |
+| HOLOGY 9.0 (Final) | Data Mining | Paddy Field Segmentation | **4th Place** |
+| HOLOGY 9.0 (Preliminary) | Data Mining | Breast Cancer Classification & Property Price Prediction | **1st Place** |
+| IFEST 2026 (Final) | Data Analysis Competition | Water Stress Forecasting | **5th Place** |
+| IFEST 2026 (Preliminary) | Data Analysis Competition | Water Stress Prediction | **3rd Place** |
 
 > 📌 ***More competitions will be documented here as our journey continues...***
 
