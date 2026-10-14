@@ -73,7 +73,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="../docs/dac-prs-its.jpg" height="220"/>
+      <img src="../docs/dac-prs-its.JPG" height="220"/>
       <br/>
       <sub><b>3rd Place — DAC PRS ITS 2026</b></sub>
     </td>
